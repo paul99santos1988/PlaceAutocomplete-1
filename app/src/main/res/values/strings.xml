@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlaceAutocomplete</string>
+    <string name="local_selecionado">Lugar selecionado:</string>
+    <string name="detalhes_local">
+    <![CDATA[
+        <b>%1$s</b>
+        <br/>
+        Endereço: %3$s
+    ]]>
+    </string>
+</resources>
